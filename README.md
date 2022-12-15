@@ -3,7 +3,7 @@ e-commerce app with product listings, and add to cart functionality
 
 ### Product Listing
 
-![](http://i.giphy.com/3o6UAZWqQBkOzs8HE4.gif) 
+![](https://i.giphy.com/j8MxxiNbPzZBjGxIKC.gif) 
 
 ### Cart Page
 
